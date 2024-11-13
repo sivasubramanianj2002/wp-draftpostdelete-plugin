@@ -1,0 +1,9 @@
+{
+    "name": "shiva/wp-draft-post",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "require": {}
+}
